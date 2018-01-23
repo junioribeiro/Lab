@@ -4,3 +4,5 @@ Eu gosto de aprender
 resolvendo o que eu esqueci
 Sou a segunda parte
 fazendo alteração de novo no mesmo arquivo
+Alteração local em arquivo
+
